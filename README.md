@@ -6,7 +6,7 @@ Predict and explain interactions between Ayurvedic medicines and modern drugs us
 <img width="696" height="392" alt="image" src="https://github.com/user-attachments/assets/4dada547-6f4e-4eeb-a58a-e97257bf0072" />
 <img width="750" height="391" alt="image" src="https://github.com/user-attachments/assets/64232154-3985-4ba7-b134-fed7878b9ec4" />
 <img width="645" height="363" alt="image" src="https://github.com/user-attachments/assets/3521611e-0998-4a7d-aaf3-ad3132be4de9" />
-<img width="645" height="363" alt="image" src="https://github.com/user-attachments/assets/0747964d-5219-4d58-b44c-7950c4313ba3" />
+
 
 
 
