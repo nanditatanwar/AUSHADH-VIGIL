@@ -1,7 +1,7 @@
-<img width="648" height="364" alt="image" src="https://github.com/user-attachments/assets/60616bca-7b12-491a-aa46-b5cf48719e41" />AI-Enabled Herb-Drug Interaction Analyzer
-
+AI-Enabled Herb-Drug Interaction Analyzer
 Predict and explain interactions between Ayurvedic medicines and modern drugs using open-source AI.
 
+<img width="648" height="364" alt="image" src="https://github.com/user-attachments/assets/60616bca-7b12-491a-aa46-b5cf48719e41" />
 <img width="691" height="358" alt="image" src="https://github.com/user-attachments/assets/18065fe1-d647-40a7-b769-42e11b14a70d" />
 <img width="696" height="392" alt="image" src="https://github.com/user-attachments/assets/4dada547-6f4e-4eeb-a58a-e97257bf0072" />
 <img width="750" height="391" alt="image" src="https://github.com/user-attachments/assets/64232154-3985-4ba7-b134-fed7878b9ec4" />
