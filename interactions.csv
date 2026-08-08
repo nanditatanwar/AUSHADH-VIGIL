@@ -1,0 +1,501 @@
+id,herb_id,drug_id,herb_scientific,drug_generic,probability,risk_level,mechanism,evidence_count,literature_refs,has_evidence,created_at
+I00001,H001,D001,Withania somnifera,warfarin,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:16.759720
+I00002,H001,D011,Withania somnifera,cyclosporine,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:17.241995
+I00003,H001,D012,Withania somnifera,tacrolimus,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:17.857811
+I00004,H001,D010,Withania somnifera,digoxin,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:18.352226
+I00005,H001,D013,Withania somnifera,phenytoin,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:18.856936
+I00006,H001,D014,Withania somnifera,carbamazepine,0.62,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,1,"[""L00001""]",1,2026-06-24T11:26:19.789798
+I00007,H001,D015,Withania somnifera,rifampicin,0.62,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,1,"[""L00002""]",1,2026-06-24T11:26:20.735446
+I00008,H001,D003,Withania somnifera,metformin,0.64,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,2,"[""L00003"", ""L00004""]",1,2026-06-24T11:26:21.692091
+I00009,H001,D004,Withania somnifera,atorvastatin,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:22.251304
+I00010,H001,D002,Withania somnifera,aspirin,0.4,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:22.760813
+I00011,H001,D026,Withania somnifera,ibuprofen,0.4,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:23.348368
+I00012,H001,D027,Withania somnifera,paracetamol,0.42,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,1,"[""L00005""]",1,2026-06-24T11:26:24.271912
+I00013,H001,D039,Withania somnifera,fluoxetine,0.64,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,2,"[""L00006"", ""L00007""]",1,2026-06-24T11:26:26.242086
+I00014,H001,D040,Withania somnifera,sertraline,0.52,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,1,"[""L00008""]",1,2026-06-24T11:26:27.194862
+I00015,H001,D041,Withania somnifera,alprazolam,0.52,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,1,"[""L00009""]",1,2026-06-24T11:26:28.412579
+I00016,H001,D046,Withania somnifera,insulin,0.64,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,2,"[""L00010"", ""L00011""]",1,2026-06-24T11:26:29.365870
+I00017,H001,D047,Withania somnifera,glibenclamide,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:29.842823
+I00018,H001,D121,Withania somnifera,levodopa,0.42,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,1,"[""L00012""]",1,2026-06-24T11:26:30.808459
+I00019,H001,D031,Withania somnifera,tamoxifen,0.54,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,2,"[""L00013"", ""L00014""]",1,2026-06-24T11:26:31.782864
+I00020,H001,D032,Withania somnifera,doxorubicin,0.62,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,1,"[""L00015""]",1,2026-06-24T11:26:32.745476
+I00021,H001,D081,Withania somnifera,methotrexate,0.74,HIGH,Hypothalamic-pituitary-adrenal axis modulation,2,"[""L00016"", ""L00017""]",1,2026-06-24T11:26:33.692835
+I00022,H001,D017,Withania somnifera,ketoconazole,0.42,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,1,"[""L00018""]",1,2026-06-24T11:26:34.656822
+I00023,H001,D016,Withania somnifera,fluconazole,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:35.142021
+I00024,H001,D101,Withania somnifera,amiodarone,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:35.673063
+I00025,H001,D061,Withania somnifera,heparin,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:36.144820
+I00026,H002,D001,Curcuma longa,warfarin,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:36.812585
+I00027,H002,D011,Curcuma longa,cyclosporine,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:37.261289
+I00028,H002,D012,Curcuma longa,tacrolimus,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:37.743426
+I00029,H002,D010,Curcuma longa,digoxin,0.74,HIGH,COX inhibition and NF-κB pathway modulation,2,"[""L00019"", ""L00020""]",1,2026-06-24T11:26:38.689548
+I00030,H002,D013,Curcuma longa,phenytoin,0.62,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00021""]",1,2026-06-24T11:26:39.632942
+I00031,H002,D014,Curcuma longa,carbamazepine,0.62,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00022""]",1,2026-06-24T11:26:40.572874
+I00032,H002,D015,Curcuma longa,rifampicin,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:41.054440
+I00033,H002,D003,Curcuma longa,metformin,0.76,HIGH,COX inhibition and NF-κB pathway modulation,3,"[""L00023"", ""L00024"", ""L00025""]",1,2026-06-24T11:26:41.988128
+I00034,H002,D004,Curcuma longa,atorvastatin,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:42.486875
+I00035,H002,D002,Curcuma longa,aspirin,0.52,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00026""]",1,2026-06-24T11:26:43.447213
+I00036,H002,D026,Curcuma longa,ibuprofen,0.64,MODERATE,COX inhibition and NF-κB pathway modulation,2,"[""L00027"", ""L00028""]",1,2026-06-24T11:26:44.368511
+I00037,H002,D027,Curcuma longa,paracetamol,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:44.849683
+I00038,H002,D039,Curcuma longa,fluoxetine,0.64,MODERATE,COX inhibition and NF-κB pathway modulation,2,"[""L00029"", ""L00030""]",1,2026-06-24T11:26:45.791732
+I00039,H002,D040,Curcuma longa,sertraline,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:46.274132
+I00040,H002,D041,Curcuma longa,alprazolam,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:46.834986
+I00041,H002,D046,Curcuma longa,insulin,0.95,HIGH,COX inhibition and NF-κB pathway modulation,5,"[""L00031"", ""L00032"", ""L00033"", ""L00034"", ""L00035""]",1,2026-06-24T11:26:47.814814
+I00042,H002,D047,Curcuma longa,glibenclamide,0.54,MODERATE,COX inhibition and NF-κB pathway modulation,2,"[""L00036"", ""L00037""]",1,2026-06-24T11:26:48.772205
+I00043,H002,D121,Curcuma longa,levodopa,0.42,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00038""]",1,2026-06-24T11:26:49.683170
+I00044,H002,D031,Curcuma longa,tamoxifen,0.42,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00039""]",1,2026-06-24T11:26:50.588273
+I00045,H002,D032,Curcuma longa,doxorubicin,0.95,HIGH,COX inhibition and NF-κB pathway modulation,5,"[""L00040"", ""L00041"", ""L00042"", ""L00043"", ""L00044""]",1,2026-06-24T11:26:51.538948
+I00046,H002,D081,Curcuma longa,methotrexate,0.62,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00045""]",1,2026-06-24T11:26:52.467752
+I00047,H002,D017,Curcuma longa,ketoconazole,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:52.965893
+I00048,H002,D016,Curcuma longa,fluconazole,0.54,MODERATE,COX inhibition and NF-κB pathway modulation,2,"[""L00046"", ""L00047""]",1,2026-06-24T11:26:53.922782
+I00049,H002,D101,Curcuma longa,amiodarone,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:54.422810
+I00050,H002,D061,Curcuma longa,heparin,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:26:54.905263
+I00051,H003,D001,Ocimum tenuiflorum,warfarin,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:55.356784
+I00052,H003,D011,Ocimum tenuiflorum,cyclosporine,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:55.810066
+I00053,H003,D012,Ocimum tenuiflorum,tacrolimus,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:56.293409
+I00054,H003,D010,Ocimum tenuiflorum,digoxin,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:56.790380
+I00055,H003,D013,Ocimum tenuiflorum,phenytoin,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:57.370174
+I00056,H003,D014,Ocimum tenuiflorum,carbamazepine,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:57.849802
+I00057,H003,D015,Ocimum tenuiflorum,rifampicin,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:58.349322
+I00058,H003,D003,Ocimum tenuiflorum,metformin,0.52,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,1,"[""L00048""]",1,2026-06-24T11:26:59.292231
+I00059,H003,D004,Ocimum tenuiflorum,atorvastatin,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:26:59.767971
+I00060,H003,D002,Ocimum tenuiflorum,aspirin,0.4,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:00.248569
+I00061,H003,D026,Ocimum tenuiflorum,ibuprofen,0.4,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:00.737777
+I00062,H003,D027,Ocimum tenuiflorum,paracetamol,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:01.227604
+I00063,H003,D039,Ocimum tenuiflorum,fluoxetine,0.4,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:01.709593
+I00064,H003,D040,Ocimum tenuiflorum,sertraline,0.4,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:02.201995
+I00065,H003,D041,Ocimum tenuiflorum,alprazolam,0.4,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:02.684166
+I00066,H003,D046,Ocimum tenuiflorum,insulin,0.52,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,1,"[""L00049""]",1,2026-06-24T11:27:03.599310
+I00067,H003,D047,Ocimum tenuiflorum,glibenclamide,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:04.094574
+I00068,H003,D121,Ocimum tenuiflorum,levodopa,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:04.576213
+I00069,H003,D031,Ocimum tenuiflorum,tamoxifen,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:05.066034
+I00070,H003,D032,Ocimum tenuiflorum,doxorubicin,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:05.550823
+I00071,H003,D081,Ocimum tenuiflorum,methotrexate,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:06.034294
+I00072,H003,D017,Ocimum tenuiflorum,ketoconazole,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:06.523152
+I00073,H003,D016,Ocimum tenuiflorum,fluconazole,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:07.003744
+I00074,H003,D101,Ocimum tenuiflorum,amiodarone,0.3,LOW,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:07.496707
+I00075,H003,D061,Ocimum tenuiflorum,heparin,0.5,MODERATE,Hypothalamic-pituitary-adrenal axis modulation,0,[],0,2026-06-24T11:27:07.943919
+I00076,H004,D001,Bacopa monnieri,warfarin,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:08.418477
+I00077,H004,D011,Bacopa monnieri,cyclosporine,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:08.901832
+I00078,H004,D012,Bacopa monnieri,tacrolimus,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:09.455060
+I00079,H004,D010,Bacopa monnieri,digoxin,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:09.912351
+I00080,H004,D013,Bacopa monnieri,phenytoin,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:10.393849
+I00081,H004,D014,Bacopa monnieri,carbamazepine,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:10.842133
+I00082,H004,D015,Bacopa monnieri,rifampicin,0.62,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,1,"[""L00050""]",1,2026-06-24T11:27:11.797881
+I00083,H004,D003,Bacopa monnieri,metformin,0.4,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:12.251171
+I00084,H004,D004,Bacopa monnieri,atorvastatin,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:12.748961
+I00085,H004,D002,Bacopa monnieri,aspirin,0.4,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:13.235454
+I00086,H004,D026,Bacopa monnieri,ibuprofen,0.4,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:13.713337
+I00087,H004,D027,Bacopa monnieri,paracetamol,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:14.196063
+I00088,H004,D039,Bacopa monnieri,fluoxetine,0.52,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,1,"[""L00051""]",1,2026-06-24T11:27:15.134254
+I00089,H004,D040,Bacopa monnieri,sertraline,0.52,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,1,"[""L00052""]",1,2026-06-24T11:27:16.082997
+I00090,H004,D041,Bacopa monnieri,alprazolam,0.4,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:16.589364
+I00091,H004,D046,Bacopa monnieri,insulin,0.52,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,1,"[""L00053""]",1,2026-06-24T11:27:17.710076
+I00092,H004,D047,Bacopa monnieri,glibenclamide,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:18.187087
+I00093,H004,D121,Bacopa monnieri,levodopa,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:18.670734
+I00094,H004,D031,Bacopa monnieri,tamoxifen,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:19.148358
+I00095,H004,D032,Bacopa monnieri,doxorubicin,0.62,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,1,"[""L00054""]",1,2026-06-24T11:27:20.104885
+I00096,H004,D081,Bacopa monnieri,methotrexate,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:20.587732
+I00097,H004,D017,Bacopa monnieri,ketoconazole,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:21.040054
+I00098,H004,D016,Bacopa monnieri,fluconazole,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:21.712956
+I00099,H004,D101,Bacopa monnieri,amiodarone,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:22.186822
+I00100,H004,D061,Bacopa monnieri,heparin,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:27:22.640792
+I00101,H005,D001,Azadirachta indica,warfarin,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:23.110712
+I00102,H005,D011,Azadirachta indica,cyclosporine,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:23.591043
+I00103,H005,D012,Azadirachta indica,tacrolimus,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:24.067820
+I00104,H005,D010,Azadirachta indica,digoxin,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:24.543782
+I00105,H005,D013,Azadirachta indica,phenytoin,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:24.991375
+I00106,H005,D014,Azadirachta indica,carbamazepine,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:25.473585
+I00107,H005,D015,Azadirachta indica,rifampicin,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:25.958010
+I00108,H005,D003,Azadirachta indica,metformin,0.4,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:26.434855
+I00109,H005,D004,Azadirachta indica,atorvastatin,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:26.887099
+I00110,H005,D002,Azadirachta indica,aspirin,0.52,MODERATE,Altered drug absorption and gut microbiome effects,1,"[""L00055""]",1,2026-06-24T11:27:27.800084
+I00111,H005,D026,Azadirachta indica,ibuprofen,0.4,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:28.279114
+I00112,H005,D027,Azadirachta indica,paracetamol,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:28.760874
+I00113,H005,D039,Azadirachta indica,fluoxetine,0.4,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:29.240565
+I00114,H005,D040,Azadirachta indica,sertraline,0.4,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:29.717108
+I00115,H005,D041,Azadirachta indica,alprazolam,0.4,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:30.165180
+I00116,H005,D046,Azadirachta indica,insulin,0.76,HIGH,Altered drug absorption and gut microbiome effects,3,"[""L00056"", ""L00057"", ""L00058""]",1,2026-06-24T11:27:31.080300
+I00117,H005,D047,Azadirachta indica,glibenclamide,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:31.563802
+I00118,H005,D121,Azadirachta indica,levodopa,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:32.080467
+I00119,H005,D031,Azadirachta indica,tamoxifen,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:32.536508
+I00120,H005,D032,Azadirachta indica,doxorubicin,0.62,MODERATE,Altered drug absorption and gut microbiome effects,1,"[""L00059""]",1,2026-06-24T11:27:33.452834
+I00121,H005,D081,Azadirachta indica,methotrexate,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:33.910000
+I00122,H005,D017,Azadirachta indica,ketoconazole,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:34.414592
+I00123,H005,D016,Azadirachta indica,fluconazole,0.42,MODERATE,Altered drug absorption and gut microbiome effects,1,"[""L00060""]",1,2026-06-24T11:27:35.361082
+I00124,H005,D101,Azadirachta indica,amiodarone,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:36.217830
+I00125,H005,D061,Azadirachta indica,heparin,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:27:36.871116
+I00126,H008,D001,Tinospora cordifolia,warfarin,0.5,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:37.334542
+I00127,H008,D011,Tinospora cordifolia,cyclosporine,0.5,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:37.813755
+I00128,H008,D012,Tinospora cordifolia,tacrolimus,0.5,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:38.274888
+I00129,H008,D010,Tinospora cordifolia,digoxin,0.5,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:38.771869
+I00130,H008,D013,Tinospora cordifolia,phenytoin,0.5,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:39.260289
+I00131,H008,D014,Tinospora cordifolia,carbamazepine,0.5,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:39.733630
+I00132,H008,D015,Tinospora cordifolia,rifampicin,0.5,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:40.216421
+I00133,H008,D003,Tinospora cordifolia,metformin,0.4,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:40.659257
+I00134,H008,D004,Tinospora cordifolia,atorvastatin,0.3,LOW,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:41.113448
+I00135,H008,D002,Tinospora cordifolia,aspirin,0.4,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:41.588629
+I00136,H008,D026,Tinospora cordifolia,ibuprofen,0.4,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:42.070665
+I00137,H008,D027,Tinospora cordifolia,paracetamol,0.3,LOW,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:42.558881
+I00138,H008,D039,Tinospora cordifolia,fluoxetine,0.4,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:43.011144
+I00139,H008,D040,Tinospora cordifolia,sertraline,0.4,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:43.484819
+I00140,H008,D041,Tinospora cordifolia,alprazolam,0.4,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:43.932543
+I00141,H008,D046,Tinospora cordifolia,insulin,0.88,HIGH,T-cell and cytokine pathway modulation,4,"[""L00061"", ""L00062"", ""L00063"", ""L00064""]",1,2026-06-24T11:27:44.868386
+I00142,H008,D047,Tinospora cordifolia,glibenclamide,0.42,MODERATE,T-cell and cytokine pathway modulation,1,"[""L00065""]",1,2026-06-24T11:27:45.817425
+I00143,H008,D121,Tinospora cordifolia,levodopa,0.3,LOW,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:46.312533
+I00144,H008,D031,Tinospora cordifolia,tamoxifen,0.3,LOW,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:46.805956
+I00145,H008,D032,Tinospora cordifolia,doxorubicin,0.5,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:47.310309
+I00146,H008,D081,Tinospora cordifolia,methotrexate,0.5,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:47.786813
+I00147,H008,D017,Tinospora cordifolia,ketoconazole,0.42,MODERATE,T-cell and cytokine pathway modulation,1,"[""L00066""]",1,2026-06-24T11:27:48.730342
+I00148,H008,D016,Tinospora cordifolia,fluconazole,0.3,LOW,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:49.209755
+I00149,H008,D101,Tinospora cordifolia,amiodarone,0.3,LOW,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:49.698785
+I00150,H008,D061,Tinospora cordifolia,heparin,0.5,MODERATE,T-cell and cytokine pathway modulation,0,[],0,2026-06-24T11:27:50.200845
+I00151,H010,D001,Zingiber officinale,warfarin,0.95,HIGH,GI absorption kinetics alteration,4,"[""L00067"", ""L00068"", ""L00069"", ""L00070""]",1,2026-06-24T11:27:51.159993
+I00152,H010,D011,Zingiber officinale,cyclosporine,0.86,HIGH,GI absorption kinetics alteration,3,"[""L00071"", ""L00072"", ""L00073""]",1,2026-06-24T11:27:52.108595
+I00153,H010,D012,Zingiber officinale,tacrolimus,0.74,HIGH,GI absorption kinetics alteration,2,"[""L00074"", ""L00075""]",1,2026-06-24T11:27:53.062891
+I00154,H010,D010,Zingiber officinale,digoxin,0.74,HIGH,GI absorption kinetics alteration,2,"[""L00076"", ""L00077""]",1,2026-06-24T11:27:53.953313
+I00155,H010,D013,Zingiber officinale,phenytoin,0.5,MODERATE,GI absorption kinetics alteration,0,[],0,2026-06-24T11:27:54.436825
+I00156,H010,D014,Zingiber officinale,carbamazepine,0.5,MODERATE,GI absorption kinetics alteration,0,[],0,2026-06-24T11:27:54.915635
+I00157,H010,D015,Zingiber officinale,rifampicin,0.62,MODERATE,GI absorption kinetics alteration,1,"[""L00078""]",1,2026-06-24T11:27:55.824890
+I00158,H010,D003,Zingiber officinale,metformin,0.52,MODERATE,GI absorption kinetics alteration,1,"[""L00079""]",1,2026-06-24T11:27:56.716633
+I00159,H010,D004,Zingiber officinale,atorvastatin,0.3,LOW,GI absorption kinetics alteration,0,[],0,2026-06-24T11:27:57.201548
+I00160,H010,D002,Zingiber officinale,aspirin,0.52,MODERATE,GI absorption kinetics alteration,1,"[""L00080""]",1,2026-06-24T11:27:58.130773
+I00161,H010,D026,Zingiber officinale,ibuprofen,0.4,MODERATE,GI absorption kinetics alteration,0,[],0,2026-06-24T11:27:58.968191
+I00162,H010,D027,Zingiber officinale,paracetamol,0.42,MODERATE,GI absorption kinetics alteration,1,"[""L00081""]",1,2026-06-24T11:27:59.909265
+I00163,H010,D039,Zingiber officinale,fluoxetine,0.4,MODERATE,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:00.388807
+I00164,H010,D040,Zingiber officinale,sertraline,0.4,MODERATE,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:00.865387
+I00165,H010,D041,Zingiber officinale,alprazolam,0.4,MODERATE,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:01.368159
+I00166,H010,D046,Zingiber officinale,insulin,0.95,HIGH,GI absorption kinetics alteration,5,"[""L00082"", ""L00083"", ""L00084"", ""L00085"", ""L00086""]",1,2026-06-24T11:28:02.322891
+I00167,H010,D047,Zingiber officinale,glibenclamide,0.3,LOW,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:02.815885
+I00168,H010,D121,Zingiber officinale,levodopa,0.3,LOW,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:03.302398
+I00169,H010,D031,Zingiber officinale,tamoxifen,0.3,LOW,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:03.764822
+I00170,H010,D032,Zingiber officinale,doxorubicin,0.5,MODERATE,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:04.210875
+I00171,H010,D081,Zingiber officinale,methotrexate,0.5,MODERATE,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:04.708168
+I00172,H010,D017,Zingiber officinale,ketoconazole,0.3,LOW,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:05.162039
+I00173,H010,D016,Zingiber officinale,fluconazole,0.3,LOW,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:05.649798
+I00174,H010,D101,Zingiber officinale,amiodarone,0.3,LOW,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:06.125365
+I00175,H010,D061,Zingiber officinale,heparin,0.5,MODERATE,GI absorption kinetics alteration,0,[],0,2026-06-24T11:28:06.657248
+I00176,H011,D001,Glycyrrhiza glabra,warfarin,0.95,HIGH,COX inhibition and NF-κB pathway modulation,4,"[""L00087"", ""L00088"", ""L00089"", ""L00090""]",1,2026-06-24T11:28:07.585925
+I00177,H011,D011,Glycyrrhiza glabra,cyclosporine,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:08.043667
+I00178,H011,D012,Glycyrrhiza glabra,tacrolimus,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:08.499401
+I00179,H011,D010,Glycyrrhiza glabra,digoxin,0.74,HIGH,COX inhibition and NF-κB pathway modulation,2,"[""L00091"", ""L00092""]",1,2026-06-24T11:28:09.408461
+I00180,H011,D013,Glycyrrhiza glabra,phenytoin,0.74,HIGH,COX inhibition and NF-κB pathway modulation,2,"[""L00093"", ""L00094""]",1,2026-06-24T11:28:10.343947
+I00181,H011,D014,Glycyrrhiza glabra,carbamazepine,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:10.876083
+I00182,H011,D015,Glycyrrhiza glabra,rifampicin,0.62,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00095""]",1,2026-06-24T11:28:11.895392
+I00183,H011,D003,Glycyrrhiza glabra,metformin,0.52,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00096""]",1,2026-06-24T11:28:12.836332
+I00184,H011,D004,Glycyrrhiza glabra,atorvastatin,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:13.316021
+I00185,H011,D002,Glycyrrhiza glabra,aspirin,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:13.806343
+I00186,H011,D026,Glycyrrhiza glabra,ibuprofen,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:14.290112
+I00187,H011,D027,Glycyrrhiza glabra,paracetamol,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:14.792402
+I00188,H011,D039,Glycyrrhiza glabra,fluoxetine,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:15.269803
+I00189,H011,D040,Glycyrrhiza glabra,sertraline,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:15.769046
+I00190,H011,D041,Glycyrrhiza glabra,alprazolam,0.52,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00097""]",1,2026-06-24T11:28:16.747078
+I00191,H011,D046,Glycyrrhiza glabra,insulin,0.52,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00098""]",1,2026-06-24T11:28:17.709550
+I00192,H011,D047,Glycyrrhiza glabra,glibenclamide,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:18.296410
+I00193,H011,D121,Glycyrrhiza glabra,levodopa,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:18.770454
+I00194,H011,D031,Glycyrrhiza glabra,tamoxifen,0.42,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00099""]",1,2026-06-24T11:28:19.711457
+I00195,H011,D032,Glycyrrhiza glabra,doxorubicin,0.74,HIGH,COX inhibition and NF-κB pathway modulation,2,"[""L00100"", ""L00101""]",1,2026-06-24T11:28:20.665171
+I00196,H011,D081,Glycyrrhiza glabra,methotrexate,0.62,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00102""]",1,2026-06-24T11:28:21.719853
+I00197,H011,D017,Glycyrrhiza glabra,ketoconazole,0.54,MODERATE,COX inhibition and NF-κB pathway modulation,2,"[""L00103"", ""L00104""]",1,2026-06-24T11:28:22.649771
+I00198,H011,D016,Glycyrrhiza glabra,fluconazole,0.54,MODERATE,COX inhibition and NF-κB pathway modulation,2,"[""L00105"", ""L00106""]",1,2026-06-24T11:28:23.531095
+I00199,H011,D101,Glycyrrhiza glabra,amiodarone,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:24.011740
+I00200,H011,D061,Glycyrrhiza glabra,heparin,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:28:24.490817
+I00201,H015,D001,Allium sativum,warfarin,0.95,HIGH,May affect CYP3A4 metabolism and platelet aggregation,5,"[""L00107"", ""L00108"", ""L00109"", ""L00110"", ""L00111""]",1,2026-06-24T11:28:25.458250
+I00202,H015,D011,Allium sativum,cyclosporine,0.74,HIGH,May affect CYP3A4 metabolism and platelet aggregation,2,"[""L00112"", ""L00113""]",1,2026-06-24T11:28:26.394160
+I00203,H015,D012,Allium sativum,tacrolimus,0.95,HIGH,May affect CYP3A4 metabolism and platelet aggregation,4,"[""L00114"", ""L00115"", ""L00116"", ""L00117""]",1,2026-06-24T11:28:27.354818
+I00204,H015,D010,Allium sativum,digoxin,0.95,HIGH,May affect CYP3A4 metabolism and platelet aggregation,5,"[""L00118"", ""L00119"", ""L00120"", ""L00121"", ""L00122""]",1,2026-06-24T11:28:28.320369
+I00205,H015,D013,Allium sativum,phenytoin,0.74,HIGH,May affect CYP3A4 metabolism and platelet aggregation,2,"[""L00123"", ""L00124""]",1,2026-06-24T11:28:29.208133
+I00206,H015,D014,Allium sativum,carbamazepine,0.62,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,1,"[""L00125""]",1,2026-06-24T11:28:30.170872
+I00207,H015,D015,Allium sativum,rifampicin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:28:30.649761
+I00208,H015,D003,Allium sativum,metformin,0.52,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,1,"[""L00126""]",1,2026-06-24T11:28:31.597008
+I00209,H015,D004,Allium sativum,atorvastatin,0.42,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,1,"[""L00127""]",1,2026-06-24T11:28:32.684362
+I00210,H015,D002,Allium sativum,aspirin,0.76,HIGH,May affect CYP3A4 metabolism and platelet aggregation,3,"[""L00128"", ""L00129"", ""L00130""]",1,2026-06-24T11:28:33.613358
+I00211,H015,D026,Allium sativum,ibuprofen,0.52,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,1,"[""L00131""]",1,2026-06-24T11:28:34.555578
+I00212,H015,D027,Allium sativum,paracetamol,0.54,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,2,"[""L00132"", ""L00133""]",1,2026-06-24T11:28:35.493742
+I00213,H015,D039,Allium sativum,fluoxetine,0.52,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,1,"[""L00134""]",1,2026-06-24T11:28:36.423497
+I00214,H015,D040,Allium sativum,sertraline,0.64,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,2,"[""L00135"", ""L00136""]",1,2026-06-24T11:28:37.374342
+I00215,H015,D041,Allium sativum,alprazolam,0.88,HIGH,May affect CYP3A4 metabolism and platelet aggregation,4,"[""L00137"", ""L00138"", ""L00139"", ""L00140""]",1,2026-06-24T11:28:38.296303
+I00216,H015,D046,Allium sativum,insulin,0.76,HIGH,May affect CYP3A4 metabolism and platelet aggregation,3,"[""L00141"", ""L00142"", ""L00143""]",1,2026-06-24T11:28:39.254497
+I00217,H015,D047,Allium sativum,glibenclamide,0.54,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,2,"[""L00144"", ""L00145""]",1,2026-06-24T11:28:40.617489
+I00218,H015,D121,Allium sativum,levodopa,0.66,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,3,"[""L00146"", ""L00147"", ""L00148""]",1,2026-06-24T11:28:41.565228
+I00219,H015,D031,Allium sativum,tamoxifen,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:28:42.041415
+I00220,H015,D032,Allium sativum,doxorubicin,0.74,HIGH,May affect CYP3A4 metabolism and platelet aggregation,2,"[""L00149"", ""L00150""]",1,2026-06-24T11:28:43.084418
+I00221,H015,D081,Allium sativum,methotrexate,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:28:43.559241
+I00222,H015,D017,Allium sativum,ketoconazole,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:28:44.041457
+I00223,H015,D016,Allium sativum,fluconazole,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:28:44.529437
+I00224,H015,D101,Allium sativum,amiodarone,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:28:45.279621
+I00225,H015,D061,Allium sativum,heparin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:28:45.763297
+I00226,H017,D001,Piper nigrum,warfarin,0.62,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00151""]",1,2026-06-24T11:28:46.729438
+I00227,H017,D011,Piper nigrum,cyclosporine,0.5,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:28:47.204281
+I00228,H017,D012,Piper nigrum,tacrolimus,0.62,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00152""]",1,2026-06-24T11:28:48.176802
+I00229,H017,D010,Piper nigrum,digoxin,0.62,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00153""]",1,2026-06-24T11:28:49.091009
+I00230,H017,D013,Piper nigrum,phenytoin,0.86,HIGH,CYP3A4/P-gp inhibition leading to increased bioavailability,3,"[""L00154"", ""L00155"", ""L00156""]",1,2026-06-24T11:28:50.040523
+I00231,H017,D014,Piper nigrum,carbamazepine,0.62,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00157""]",1,2026-06-24T11:28:50.982080
+I00232,H017,D015,Piper nigrum,rifampicin,0.62,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00158""]",1,2026-06-24T11:28:52.087066
+I00233,H017,D003,Piper nigrum,metformin,0.52,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00159""]",1,2026-06-24T11:28:53.087179
+I00234,H017,D004,Piper nigrum,atorvastatin,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:28:53.538967
+I00235,H017,D002,Piper nigrum,aspirin,0.52,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00160""]",1,2026-06-24T11:28:54.488575
+I00236,H017,D026,Piper nigrum,ibuprofen,0.52,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00161""]",1,2026-06-24T11:28:55.438311
+I00237,H017,D027,Piper nigrum,paracetamol,0.42,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00162""]",1,2026-06-24T11:28:56.565207
+I00238,H017,D039,Piper nigrum,fluoxetine,0.4,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:28:57.011840
+I00239,H017,D040,Piper nigrum,sertraline,0.52,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00163""]",1,2026-06-24T11:28:57.937709
+I00240,H017,D041,Piper nigrum,alprazolam,0.52,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00164""]",1,2026-06-24T11:28:58.904824
+I00241,H017,D046,Piper nigrum,insulin,0.64,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,2,"[""L00165"", ""L00166""]",1,2026-06-24T11:28:59.854246
+I00242,H017,D047,Piper nigrum,glibenclamide,0.42,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00167""]",1,2026-06-24T11:29:00.844261
+I00243,H017,D121,Piper nigrum,levodopa,0.42,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00168""]",1,2026-06-24T11:29:01.858389
+I00244,H017,D031,Piper nigrum,tamoxifen,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:02.383381
+I00245,H017,D032,Piper nigrum,doxorubicin,0.74,HIGH,CYP3A4/P-gp inhibition leading to increased bioavailability,2,"[""L00169"", ""L00170""]",1,2026-06-24T11:29:03.310921
+I00246,H017,D081,Piper nigrum,methotrexate,0.5,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:03.786813
+I00247,H017,D017,Piper nigrum,ketoconazole,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:04.724028
+I00248,H017,D016,Piper nigrum,fluconazole,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:05.198057
+I00249,H017,D101,Piper nigrum,amiodarone,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:05.686037
+I00250,H017,D061,Piper nigrum,heparin,0.5,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:06.190205
+I00251,H018,D001,Piper longum,warfarin,0.62,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00171""]",1,2026-06-24T11:29:07.156868
+I00252,H018,D011,Piper longum,cyclosporine,0.62,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00172""]",1,2026-06-24T11:29:08.096561
+I00253,H018,D012,Piper longum,tacrolimus,0.5,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:08.548146
+I00254,H018,D010,Piper longum,digoxin,0.5,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:09.036880
+I00255,H018,D013,Piper longum,phenytoin,0.62,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00173""]",1,2026-06-24T11:29:10.031512
+I00256,H018,D014,Piper longum,carbamazepine,0.5,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:10.667994
+I00257,H018,D015,Piper longum,rifampicin,0.5,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:11.191736
+I00258,H018,D003,Piper longum,metformin,0.4,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:11.672852
+I00259,H018,D004,Piper longum,atorvastatin,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:12.138616
+I00260,H018,D002,Piper longum,aspirin,0.4,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:12.583355
+I00261,H018,D026,Piper longum,ibuprofen,0.4,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:13.050990
+I00262,H018,D027,Piper longum,paracetamol,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:13.530628
+I00263,H018,D039,Piper longum,fluoxetine,0.4,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:14.020954
+I00264,H018,D040,Piper longum,sertraline,0.4,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:14.503013
+I00265,H018,D041,Piper longum,alprazolam,0.4,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:14.956618
+I00266,H018,D046,Piper longum,insulin,0.52,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00174""]",1,2026-06-24T11:29:15.894718
+I00267,H018,D047,Piper longum,glibenclamide,0.42,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,1,"[""L00175""]",1,2026-06-24T11:29:16.810522
+I00268,H018,D121,Piper longum,levodopa,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:17.291522
+I00269,H018,D031,Piper longum,tamoxifen,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:17.785160
+I00270,H018,D032,Piper longum,doxorubicin,0.74,HIGH,CYP3A4/P-gp inhibition leading to increased bioavailability,2,"[""L00176"", ""L00177""]",1,2026-06-24T11:29:18.665841
+I00271,H018,D081,Piper longum,methotrexate,0.5,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:19.119105
+I00272,H018,D017,Piper longum,ketoconazole,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:19.599993
+I00273,H018,D016,Piper longum,fluconazole,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:20.074707
+I00274,H018,D101,Piper longum,amiodarone,0.3,LOW,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:20.526246
+I00275,H018,D061,Piper longum,heparin,0.5,MODERATE,CYP3A4/P-gp inhibition leading to increased bioavailability,0,[],0,2026-06-24T11:29:20.983082
+I00276,H025,D001,Andrographis paniculata,warfarin,0.62,MODERATE,Altered drug absorption and gut microbiome effects,1,"[""L00178""]",1,2026-06-24T11:29:21.880990
+I00277,H025,D011,Andrographis paniculata,cyclosporine,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:22.364195
+I00278,H025,D012,Andrographis paniculata,tacrolimus,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:22.817554
+I00279,H025,D010,Andrographis paniculata,digoxin,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:23.360716
+I00280,H025,D013,Andrographis paniculata,phenytoin,0.62,MODERATE,Altered drug absorption and gut microbiome effects,1,"[""L00179""]",1,2026-06-24T11:29:24.296832
+I00281,H025,D014,Andrographis paniculata,carbamazepine,0.62,MODERATE,Altered drug absorption and gut microbiome effects,1,"[""L00180""]",1,2026-06-24T11:29:25.247469
+I00282,H025,D015,Andrographis paniculata,rifampicin,0.62,MODERATE,Altered drug absorption and gut microbiome effects,1,"[""L00181""]",1,2026-06-24T11:29:26.210437
+I00283,H025,D003,Andrographis paniculata,metformin,0.64,MODERATE,Altered drug absorption and gut microbiome effects,2,"[""L00182"", ""L00183""]",1,2026-06-24T11:29:27.263387
+I00284,H025,D004,Andrographis paniculata,atorvastatin,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:27.720814
+I00285,H025,D002,Andrographis paniculata,aspirin,0.4,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:28.199974
+I00286,H025,D026,Andrographis paniculata,ibuprofen,0.4,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:28.690023
+I00287,H025,D027,Andrographis paniculata,paracetamol,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:29.177083
+I00288,H025,D039,Andrographis paniculata,fluoxetine,0.52,MODERATE,Altered drug absorption and gut microbiome effects,1,"[""L00184""]",1,2026-06-24T11:29:30.135156
+I00289,H025,D040,Andrographis paniculata,sertraline,0.4,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:30.605190
+I00290,H025,D041,Andrographis paniculata,alprazolam,0.4,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:31.087767
+I00291,H025,D046,Andrographis paniculata,insulin,0.64,MODERATE,Altered drug absorption and gut microbiome effects,2,"[""L00185"", ""L00186""]",1,2026-06-24T11:29:32.078856
+I00292,H025,D047,Andrographis paniculata,glibenclamide,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:32.572824
+I00293,H025,D121,Andrographis paniculata,levodopa,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:33.073867
+I00294,H025,D031,Andrographis paniculata,tamoxifen,0.54,MODERATE,Altered drug absorption and gut microbiome effects,2,"[""L00187"", ""L00188""]",1,2026-06-24T11:29:34.007325
+I00295,H025,D032,Andrographis paniculata,doxorubicin,0.86,HIGH,Altered drug absorption and gut microbiome effects,3,"[""L00189"", ""L00190"", ""L00191""]",1,2026-06-24T11:29:35.117235
+I00296,H025,D081,Andrographis paniculata,methotrexate,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:35.619055
+I00297,H025,D017,Andrographis paniculata,ketoconazole,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:36.102115
+I00298,H025,D016,Andrographis paniculata,fluconazole,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:36.594072
+I00299,H025,D101,Andrographis paniculata,amiodarone,0.3,LOW,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:37.074386
+I00300,H025,D061,Andrographis paniculata,heparin,0.5,MODERATE,Altered drug absorption and gut microbiome effects,0,[],0,2026-06-24T11:29:37.560512
+I00301,H047,D001,Commiphora wightii,warfarin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:38.079209
+I00302,H047,D011,Commiphora wightii,cyclosporine,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:38.559546
+I00303,H047,D012,Commiphora wightii,tacrolimus,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:39.046831
+I00304,H047,D010,Commiphora wightii,digoxin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:39.524853
+I00305,H047,D013,Commiphora wightii,phenytoin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:39.995809
+I00306,H047,D014,Commiphora wightii,carbamazepine,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:40.484248
+I00307,H047,D015,Commiphora wightii,rifampicin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:41.001578
+I00308,H047,D003,Commiphora wightii,metformin,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:41.495038
+I00309,H047,D004,Commiphora wightii,atorvastatin,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:42.039958
+I00310,H047,D002,Commiphora wightii,aspirin,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:42.538404
+I00311,H047,D026,Commiphora wightii,ibuprofen,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:43.110794
+I00312,H047,D027,Commiphora wightii,paracetamol,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:43.562826
+I00313,H047,D039,Commiphora wightii,fluoxetine,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:44.040149
+I00314,H047,D040,Commiphora wightii,sertraline,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:44.516770
+I00315,H047,D041,Commiphora wightii,alprazolam,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:45.040742
+I00316,H047,D046,Commiphora wightii,insulin,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:45.529172
+I00317,H047,D047,Commiphora wightii,glibenclamide,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:46.010190
+I00318,H047,D121,Commiphora wightii,levodopa,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:46.511631
+I00319,H047,D031,Commiphora wightii,tamoxifen,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:46.996245
+I00320,H047,D032,Commiphora wightii,doxorubicin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:47.661162
+I00321,H047,D081,Commiphora wightii,methotrexate,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:48.156059
+I00322,H047,D017,Commiphora wightii,ketoconazole,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:48.652807
+I00323,H047,D016,Commiphora wightii,fluconazole,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:49.128646
+I00324,H047,D101,Commiphora wightii,amiodarone,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:49.620484
+I00325,H047,D061,Commiphora wightii,heparin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:29:50.073463
+I00326,H054,D001,Mucuna pruriens,warfarin,0.5,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:50.517438
+I00327,H054,D011,Mucuna pruriens,cyclosporine,0.5,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:50.989752
+I00328,H054,D012,Mucuna pruriens,tacrolimus,0.5,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:51.478214
+I00329,H054,D010,Mucuna pruriens,digoxin,0.5,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:51.960802
+I00330,H054,D013,Mucuna pruriens,phenytoin,0.5,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:52.438327
+I00331,H054,D014,Mucuna pruriens,carbamazepine,0.5,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:52.913182
+I00332,H054,D015,Mucuna pruriens,rifampicin,0.5,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:53.385345
+I00333,H054,D003,Mucuna pruriens,metformin,0.4,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:53.866494
+I00334,H054,D004,Mucuna pruriens,atorvastatin,0.3,LOW,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:54.359075
+I00335,H054,D002,Mucuna pruriens,aspirin,0.4,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:54.812114
+I00336,H054,D026,Mucuna pruriens,ibuprofen,0.4,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:55.308001
+I00337,H054,D027,Mucuna pruriens,paracetamol,0.3,LOW,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:55.756022
+I00338,H054,D039,Mucuna pruriens,fluoxetine,0.4,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:56.230217
+I00339,H054,D040,Mucuna pruriens,sertraline,0.4,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:56.683566
+I00340,H054,D041,Mucuna pruriens,alprazolam,0.4,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:57.140626
+I00341,H054,D046,Mucuna pruriens,insulin,0.4,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:57.600625
+I00342,H054,D047,Mucuna pruriens,glibenclamide,0.3,LOW,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:58.086354
+I00343,H054,D121,Mucuna pruriens,levodopa,0.9,HIGH,CNS receptor binding and neurotransmitter interference,5,"[""L00192"", ""L00193"", ""L00194"", ""L00195"", ""L00196""]",1,2026-06-24T11:29:59.143671
+I00344,H054,D031,Mucuna pruriens,tamoxifen,0.3,LOW,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:29:59.623838
+I00345,H054,D032,Mucuna pruriens,doxorubicin,0.5,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:30:00.100076
+I00346,H054,D081,Mucuna pruriens,methotrexate,0.5,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:30:00.647123
+I00347,H054,D017,Mucuna pruriens,ketoconazole,0.3,LOW,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:30:01.130469
+I00348,H054,D016,Mucuna pruriens,fluconazole,0.3,LOW,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:30:01.603763
+I00349,H054,D101,Mucuna pruriens,amiodarone,0.3,LOW,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:30:02.099503
+I00350,H054,D061,Mucuna pruriens,heparin,0.5,MODERATE,CNS receptor binding and neurotransmitter interference,0,[],0,2026-06-24T11:30:02.612413
+I00351,H075,D001,Rauvolfia serpentina,warfarin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:03.093808
+I00352,H075,D011,Rauvolfia serpentina,cyclosporine,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:03.572784
+I00353,H075,D012,Rauvolfia serpentina,tacrolimus,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:04.048841
+I00354,H075,D010,Rauvolfia serpentina,digoxin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:04.531039
+I00355,H075,D013,Rauvolfia serpentina,phenytoin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:05.021448
+I00356,H075,D014,Rauvolfia serpentina,carbamazepine,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:05.497471
+I00357,H075,D015,Rauvolfia serpentina,rifampicin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:05.990855
+I00358,H075,D003,Rauvolfia serpentina,metformin,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:06.533023
+I00359,H075,D004,Rauvolfia serpentina,atorvastatin,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:07.011058
+I00360,H075,D002,Rauvolfia serpentina,aspirin,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:07.545910
+I00361,H075,D026,Rauvolfia serpentina,ibuprofen,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:08.042529
+I00362,H075,D027,Rauvolfia serpentina,paracetamol,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:08.577310
+I00363,H075,D039,Rauvolfia serpentina,fluoxetine,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:09.074845
+I00364,H075,D040,Rauvolfia serpentina,sertraline,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:09.666708
+I00365,H075,D041,Rauvolfia serpentina,alprazolam,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:10.196377
+I00366,H075,D046,Rauvolfia serpentina,insulin,0.4,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:10.659170
+I00367,H075,D047,Rauvolfia serpentina,glibenclamide,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:11.194568
+I00368,H075,D121,Rauvolfia serpentina,levodopa,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:11.673779
+I00369,H075,D031,Rauvolfia serpentina,tamoxifen,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:12.156515
+I00370,H075,D032,Rauvolfia serpentina,doxorubicin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:12.667306
+I00371,H075,D081,Rauvolfia serpentina,methotrexate,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:13.115849
+I00372,H075,D017,Rauvolfia serpentina,ketoconazole,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:13.608809
+I00373,H075,D016,Rauvolfia serpentina,fluconazole,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:14.089259
+I00374,H075,D101,Rauvolfia serpentina,amiodarone,0.3,LOW,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:14.563831
+I00375,H075,D061,Rauvolfia serpentina,heparin,0.5,MODERATE,May affect CYP3A4 metabolism and platelet aggregation,0,[],0,2026-06-24T11:30:15.023284
+I00376,H013,D001,Momordica charantia,warfarin,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:15.509197
+I00377,H013,D011,Momordica charantia,cyclosporine,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:15.985829
+I00378,H013,D012,Momordica charantia,tacrolimus,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:16.469555
+I00379,H013,D010,Momordica charantia,digoxin,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:16.983383
+I00380,H013,D013,Momordica charantia,phenytoin,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:17.430701
+I00381,H013,D014,Momordica charantia,carbamazepine,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:17.882421
+I00382,H013,D015,Momordica charantia,rifampicin,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:18.341161
+I00383,H013,D003,Momordica charantia,metformin,0.76,HIGH,Additive hypoglycemic effect via insulin sensitization,3,"[""L00197"", ""L00198"", ""L00199""]",1,2026-06-24T11:30:19.596409
+I00384,H013,D004,Momordica charantia,atorvastatin,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:20.098811
+I00385,H013,D002,Momordica charantia,aspirin,0.64,MODERATE,Additive hypoglycemic effect via insulin sensitization,2,"[""L00200"", ""L00201""]",1,2026-06-24T11:30:21.012381
+I00386,H013,D026,Momordica charantia,ibuprofen,0.52,MODERATE,Additive hypoglycemic effect via insulin sensitization,1,"[""L00202""]",1,2026-06-24T11:30:21.935846
+I00387,H013,D027,Momordica charantia,paracetamol,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:22.444831
+I00388,H013,D039,Momordica charantia,fluoxetine,0.4,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:23.153844
+I00389,H013,D040,Momordica charantia,sertraline,0.4,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:23.696085
+I00390,H013,D041,Momordica charantia,alprazolam,0.4,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:24.156544
+I00391,H013,D046,Momordica charantia,insulin,0.95,HIGH,Additive hypoglycemic effect via insulin sensitization,5,"[""L00203"", ""L00204"", ""L00205"", ""L00206"", ""L00207""]",1,2026-06-24T11:30:25.088343
+I00392,H013,D047,Momordica charantia,glibenclamide,0.54,MODERATE,Additive hypoglycemic effect via insulin sensitization,2,"[""L00208"", ""L00209""]",1,2026-06-24T11:30:26.006285
+I00393,H013,D121,Momordica charantia,levodopa,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:26.455072
+I00394,H013,D031,Momordica charantia,tamoxifen,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:26.909844
+I00395,H013,D032,Momordica charantia,doxorubicin,0.62,MODERATE,Additive hypoglycemic effect via insulin sensitization,1,"[""L00210""]",1,2026-06-24T11:30:27.951601
+I00396,H013,D081,Momordica charantia,methotrexate,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:28.426857
+I00397,H013,D017,Momordica charantia,ketoconazole,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:28.946411
+I00398,H013,D016,Momordica charantia,fluconazole,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:29.439089
+I00399,H013,D101,Momordica charantia,amiodarone,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:29.913245
+I00400,H013,D061,Momordica charantia,heparin,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:30.386531
+I00401,H014,D001,Trigonella foenum-graecum,warfarin,0.74,HIGH,Additive hypoglycemic effect via insulin sensitization,2,"[""L00211"", ""L00212""]",1,2026-06-24T11:30:31.341729
+I00402,H014,D011,Trigonella foenum-graecum,cyclosporine,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:31.829773
+I00403,H014,D012,Trigonella foenum-graecum,tacrolimus,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:32.311309
+I00404,H014,D010,Trigonella foenum-graecum,digoxin,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:32.808233
+I00405,H014,D013,Trigonella foenum-graecum,phenytoin,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:33.288144
+I00406,H014,D014,Trigonella foenum-graecum,carbamazepine,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:33.810830
+I00407,H014,D015,Trigonella foenum-graecum,rifampicin,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:34.315279
+I00408,H014,D003,Trigonella foenum-graecum,metformin,0.76,HIGH,Additive hypoglycemic effect via insulin sensitization,3,"[""L00213"", ""L00214"", ""L00215""]",1,2026-06-24T11:30:35.281812
+I00409,H014,D004,Trigonella foenum-graecum,atorvastatin,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:35.759836
+I00410,H014,D002,Trigonella foenum-graecum,aspirin,0.4,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:36.233968
+I00411,H014,D026,Trigonella foenum-graecum,ibuprofen,0.4,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:36.727819
+I00412,H014,D027,Trigonella foenum-graecum,paracetamol,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:37.211395
+I00413,H014,D039,Trigonella foenum-graecum,fluoxetine,0.4,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:37.787754
+I00414,H014,D040,Trigonella foenum-graecum,sertraline,0.4,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:38.290897
+I00415,H014,D041,Trigonella foenum-graecum,alprazolam,0.4,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:39.008586
+I00416,H014,D046,Trigonella foenum-graecum,insulin,0.95,HIGH,Additive hypoglycemic effect via insulin sensitization,5,"[""L00216"", ""L00217"", ""L00218"", ""L00219"", ""L00220""]",1,2026-06-24T11:30:39.954054
+I00417,H014,D047,Trigonella foenum-graecum,glibenclamide,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:40.452312
+I00418,H014,D121,Trigonella foenum-graecum,levodopa,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:40.933545
+I00419,H014,D031,Trigonella foenum-graecum,tamoxifen,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:41.408354
+I00420,H014,D032,Trigonella foenum-graecum,doxorubicin,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:41.885407
+I00421,H014,D081,Trigonella foenum-graecum,methotrexate,0.62,MODERATE,Additive hypoglycemic effect via insulin sensitization,1,"[""L00221""]",1,2026-06-24T11:30:42.819598
+I00422,H014,D017,Trigonella foenum-graecum,ketoconazole,0.42,MODERATE,Additive hypoglycemic effect via insulin sensitization,1,"[""L00222""]",1,2026-06-24T11:30:43.742834
+I00423,H014,D016,Trigonella foenum-graecum,fluconazole,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:44.475008
+I00424,H014,D101,Trigonella foenum-graecum,amiodarone,0.3,LOW,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:45.069763
+I00425,H014,D061,Trigonella foenum-graecum,heparin,0.5,MODERATE,Additive hypoglycemic effect via insulin sensitization,0,[],0,2026-06-24T11:30:45.584025
+I00426,H009,D001,Phyllanthus emblica,warfarin,0.62,MODERATE,Redox signaling and reactive oxygen species scavenging,1,"[""L00223""]",1,2026-06-24T11:30:46.671092
+I00427,H009,D011,Phyllanthus emblica,cyclosporine,0.5,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:47.126842
+I00428,H009,D012,Phyllanthus emblica,tacrolimus,0.5,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:47.630261
+I00429,H009,D010,Phyllanthus emblica,digoxin,0.5,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:48.122923
+I00430,H009,D013,Phyllanthus emblica,phenytoin,0.5,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:48.575285
+I00431,H009,D014,Phyllanthus emblica,carbamazepine,0.5,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:49.080764
+I00432,H009,D015,Phyllanthus emblica,rifampicin,0.5,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:49.576878
+I00433,H009,D003,Phyllanthus emblica,metformin,0.76,HIGH,Redox signaling and reactive oxygen species scavenging,3,"[""L00224"", ""L00225"", ""L00226""]",1,2026-06-24T11:30:50.579627
+I00434,H009,D004,Phyllanthus emblica,atorvastatin,0.3,LOW,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:51.030904
+I00435,H009,D002,Phyllanthus emblica,aspirin,0.52,MODERATE,Redox signaling and reactive oxygen species scavenging,1,"[""L00227""]",1,2026-06-24T11:30:51.977137
+I00436,H009,D026,Phyllanthus emblica,ibuprofen,0.4,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:52.458834
+I00437,H009,D027,Phyllanthus emblica,paracetamol,0.3,LOW,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:52.944842
+I00438,H009,D039,Phyllanthus emblica,fluoxetine,0.4,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:53.434267
+I00439,H009,D040,Phyllanthus emblica,sertraline,0.4,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:55.108064
+I00440,H009,D041,Phyllanthus emblica,alprazolam,0.4,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:55.563250
+I00441,H009,D046,Phyllanthus emblica,insulin,0.64,MODERATE,Redox signaling and reactive oxygen species scavenging,2,"[""L00228"", ""L00229""]",1,2026-06-24T11:30:56.485881
+I00442,H009,D047,Phyllanthus emblica,glibenclamide,0.3,LOW,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:56.974848
+I00443,H009,D121,Phyllanthus emblica,levodopa,0.3,LOW,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:57.447518
+I00444,H009,D031,Phyllanthus emblica,tamoxifen,0.3,LOW,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:57.893437
+I00445,H009,D032,Phyllanthus emblica,doxorubicin,0.62,MODERATE,Redox signaling and reactive oxygen species scavenging,1,"[""L00230""]",1,2026-06-24T11:30:58.856106
+I00446,H009,D081,Phyllanthus emblica,methotrexate,0.5,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:59.307529
+I00447,H009,D017,Phyllanthus emblica,ketoconazole,0.3,LOW,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:30:59.805839
+I00448,H009,D016,Phyllanthus emblica,fluconazole,0.3,LOW,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:31:00.297746
+I00449,H009,D101,Phyllanthus emblica,amiodarone,0.3,LOW,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:31:00.790548
+I00450,H009,D061,Phyllanthus emblica,heparin,0.5,MODERATE,Redox signaling and reactive oxygen species scavenging,0,[],0,2026-06-24T11:31:01.711776
+I00451,H012,D001,Boswellia serrata,warfarin,0.62,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00231""]",1,2026-06-24T11:31:02.640940
+I00452,H012,D011,Boswellia serrata,cyclosporine,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:03.132527
+I00453,H012,D012,Boswellia serrata,tacrolimus,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:03.615860
+I00454,H012,D010,Boswellia serrata,digoxin,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:04.096557
+I00455,H012,D013,Boswellia serrata,phenytoin,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:04.551472
+I00456,H012,D014,Boswellia serrata,carbamazepine,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:05.062612
+I00457,H012,D015,Boswellia serrata,rifampicin,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:05.554009
+I00458,H012,D003,Boswellia serrata,metformin,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:06.005216
+I00459,H012,D004,Boswellia serrata,atorvastatin,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:06.490805
+I00460,H012,D002,Boswellia serrata,aspirin,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:06.982880
+I00461,H012,D026,Boswellia serrata,ibuprofen,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:07.482751
+I00462,H012,D027,Boswellia serrata,paracetamol,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:07.990828
+I00463,H012,D039,Boswellia serrata,fluoxetine,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:08.448873
+I00464,H012,D040,Boswellia serrata,sertraline,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:08.900860
+I00465,H012,D041,Boswellia serrata,alprazolam,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:09.374333
+I00466,H012,D046,Boswellia serrata,insulin,0.4,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:09.842814
+I00467,H012,D047,Boswellia serrata,glibenclamide,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:10.323172
+I00468,H012,D121,Boswellia serrata,levodopa,0.42,MODERATE,COX inhibition and NF-κB pathway modulation,1,"[""L00232""]",1,2026-06-24T11:31:11.296403
+I00469,H012,D031,Boswellia serrata,tamoxifen,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:11.780285
+I00470,H012,D032,Boswellia serrata,doxorubicin,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:12.418507
+I00471,H012,D081,Boswellia serrata,methotrexate,0.74,HIGH,COX inhibition and NF-κB pathway modulation,2,"[""L00233"", ""L00234""]",1,2026-06-24T11:31:13.307797
+I00472,H012,D017,Boswellia serrata,ketoconazole,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:13.789781
+I00473,H012,D016,Boswellia serrata,fluconazole,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:14.232645
+I00474,H012,D101,Boswellia serrata,amiodarone,0.3,LOW,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:14.687140
+I00475,H012,D061,Boswellia serrata,heparin,0.5,MODERATE,COX inhibition and NF-κB pathway modulation,0,[],0,2026-06-24T11:31:15.139237
+I00476,H016,D001,Centella asiatica,warfarin,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:15.669510
+I00477,H016,D011,Centella asiatica,cyclosporine,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:16.197742
+I00478,H016,D012,Centella asiatica,tacrolimus,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:16.719075
+I00479,H016,D010,Centella asiatica,digoxin,0.62,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,1,"[""L00235""]",1,2026-06-24T11:31:17.618404
+I00480,H016,D013,Centella asiatica,phenytoin,0.86,HIGH,Cholinesterase inhibition and neurotransmitter modulation,3,"[""L00236"", ""L00237"", ""L00238""]",1,2026-06-24T11:31:18.610523
+I00481,H016,D014,Centella asiatica,carbamazepine,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:19.062263
+I00482,H016,D015,Centella asiatica,rifampicin,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:19.609133
+I00483,H016,D003,Centella asiatica,metformin,0.4,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:20.083751
+I00484,H016,D004,Centella asiatica,atorvastatin,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:20.542031
+I00485,H016,D002,Centella asiatica,aspirin,0.52,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,1,"[""L00239""]",1,2026-06-24T11:31:21.452474
+I00486,H016,D026,Centella asiatica,ibuprofen,0.4,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:21.897197
+I00487,H016,D027,Centella asiatica,paracetamol,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:22.376723
+I00488,H016,D039,Centella asiatica,fluoxetine,0.4,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:22.974826
+I00489,H016,D040,Centella asiatica,sertraline,0.4,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:23.582360
+I00490,H016,D041,Centella asiatica,alprazolam,0.4,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:24.057823
+I00491,H016,D046,Centella asiatica,insulin,0.76,HIGH,Cholinesterase inhibition and neurotransmitter modulation,3,"[""L00240"", ""L00241"", ""L00242""]",1,2026-06-24T11:31:25.089702
+I00492,H016,D047,Centella asiatica,glibenclamide,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:25.556055
+I00493,H016,D121,Centella asiatica,levodopa,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:26.041141
+I00494,H016,D031,Centella asiatica,tamoxifen,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:26.505880
+I00495,H016,D032,Centella asiatica,doxorubicin,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:26.988316
+I00496,H016,D081,Centella asiatica,methotrexate,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:27.441881
+I00497,H016,D017,Centella asiatica,ketoconazole,0.42,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,1,"[""L00243""]",1,2026-06-24T11:31:28.328384
+I00498,H016,D016,Centella asiatica,fluconazole,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:28.810343
+I00499,H016,D101,Centella asiatica,amiodarone,0.3,LOW,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:29.263186
+I00500,H016,D061,Centella asiatica,heparin,0.5,MODERATE,Cholinesterase inhibition and neurotransmitter modulation,0,[],0,2026-06-24T11:31:29.721194

@@ -1,0 +1,105 @@
+id,name,sanskrit_name,scientific_name,category,source,constituents
+H001,Ashwagandha,Ashwagandha,Withania somnifera,Adaptogen,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0001,C0002,C0003,C0004,C0005"
+H002,Turmeric,Haridra,Curcuma longa,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0006,C0007,C0008,C0009"
+H003,Tulsi,Tulasi,Ocimum tenuiflorum,Adaptogen,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0010,C0011,C0012,C0013,C0014"
+H004,Brahmi,Brahmi,Bacopa monnieri,Nootropic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0015,C0016,C0017,C0018,C0019"
+H005,Neem,Nimba,Azadirachta indica,Antimicrobial,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0020,C0021,C0022,C0023"
+H006,Shatavari,Shatavari,Asparagus racemosus,Adaptogen,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0024,C0025,C0026"
+H007,Triphala,Triphala,Terminalia chebula,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0027,C0028,C0029,C0030,C0031"
+H008,Guduchi,Guduchi,Tinospora cordifolia,Immunomodulator,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0032,C0033,C0034,C0035,C0036"
+H009,Amla,Amalaki,Phyllanthus emblica,Antioxidant,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0037,C0038,C0039,C0040,C0041"
+H010,Ginger,Shunthi,Zingiber officinale,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0042,C0043,C0044,C0045,C0046"
+H011,Licorice,Yashtimadhu,Glycyrrhiza glabra,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0047,C0048,C0049,C0050,C0051"
+H012,Boswellia,Shallaki,Boswellia serrata,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0052,C0053,C0054,C0055"
+H013,Bitter Melon,Karela,Momordica charantia,Antidiabetic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0056,C0057,C0058"
+H014,Fenugreek,Methi,Trigonella foenum-graecum,Antidiabetic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0059,C0060,C0061,C0062,C0063"
+H015,Garlic,Lashuna,Allium sativum,Cardiovascular,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0064,C0065,C0066,C0067,C0068"
+H016,Gotu Kola,Mandukparni,Centella asiatica,Nootropic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0069,C0070,C0071,C0072"
+H017,Black Pepper,Maricha,Piper nigrum,Bioenhancer,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0073,C0074,C0075,C0076,C0077"
+H018,Long Pepper,Pippali,Piper longum,Bioenhancer,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0078,C0079,C0080,C0081"
+H019,Shankhpushpi,Shankhpushpi,Convolvulus pluricaulis,Nootropic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0082,C0083,C0084,C0085,C0086"
+H020,Arjuna,Arjuna,Terminalia arjuna,Cardiovascular,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0087,C0088,C0089,C0090"
+H021,Punarnava,Punarnava,Boerhavia diffusa,Diuretic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0091,C0092,C0093,C0094"
+H022,Vidanga,Vidanga,Embelia ribes,Anthelmintic,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H023,Bibhitaki,Vibhitaki,Terminalia bellirica,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H024,Bhringaraj,Bhringaraja,Eclipta prostrata,Hepatoprotective,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0095,C0096,C0097,C0098"
+H025,Kalmegh,Kalmegh,Andrographis paniculata,Antimicrobial,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0099,C0100,C0101,C0102"
+H026,Mulethi,Madhuyashti,Glycyrrhiza uralensis,Respiratory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H027,Safed Musli,Shweta Musli,Chlorophytum borivilianum,Adaptogen,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H028,Cardamom,Ela,Elettaria cardamomum,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H029,Cinnamon,Tvak,Cinnamomum verum,Antidiabetic,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H030,Clove,Lavanga,Syzygium aromaticum,Antimicrobial,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H031,Nutmeg,Jatiphala,Myristica fragrans,Neurological,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H032,Saffron,Kumkuma,Crocus sativus,Nootropic,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H033,Kutki,Katuka,Picrorhiza kurroa,Hepatoprotective,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0103,C0104,C0105,C0106,C0107"
+H034,Vacha,Vacha,Acorus calamus,Nootropic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0108,C0109,C0110,C0111,C0112"
+H035,Dashamoola,Dashamoola,Desmodium gangeticum,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H036,Bala,Bala,Sida cordifolia,Adaptogen,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H037,Vidari,Vidari,Pueraria tuberosa,Adaptogen,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H038,Amaltas,Aragvadha,Cassia fistula,Laxative,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H039,Noni,Ashyuka,Morinda citrifolia,Antioxidant,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H040,Pushkarmool,Pushkaramoola,Inula racemosa,Respiratory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H041,Jatamansi,Jatamansi,Nardostachys jatamansi,Neurological,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0113,C0114,C0115,C0116"
+H042,Chitrak,Chitraka,Plumbago zeylanica,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0117,C0118,C0119"
+H043,Devdaru,Devadaru,Cedrus deodara,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H044,Draksha,Draksha,Vitis vinifera,Antioxidant,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H045,Eranda,Eranda,Ricinus communis,Laxative,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H046,Gokshura,Gokshura,Tribulus terrestris,Diuretic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0120,C0121,C0122,C0123"
+H047,Guggul,Guggulu,Commiphora wightii,Cardiovascular,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0124,C0125,C0126,C0127"
+H048,Indravaruni,Indravaruni,Citrullus colocynthis,Antidiabetic,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H049,Jamun,Jambu,Syzygium cumini,Antidiabetic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0128,C0129,C0130,C0131"
+H050,Kadamba,Kadamba,Neolamarckia cadamba,Antimicrobial,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H051,Kakamachi,Kakamachi,Solanum nigrum,Hepatoprotective,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H052,Kala Jeera,Krishna Jiraka,Bunium persicum,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H053,Kalaunji,Upakunchika,Nigella sativa,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0132,C0133,C0134,C0135,C0136"
+H054,Kapikacchu,Kapikacchu,Mucuna pruriens,Neurological,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0137,C0138,C0139"
+H055,Karanja,Karanja,Pongamia pinnata,Antimicrobial,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H056,Karpura,Karpura,Cinnamomum camphora,Respiratory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H057,Kasani,Kasani,Cichorium intybus,Hepatoprotective,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H058,Kasondi,Kashmari,Gmelina arborea,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H059,Khadira,Khadira,Acacia catechu,Antimicrobial,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H060,Kumari,Kumari,Aloe vera,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0140,C0141,C0142,C0143,C0144"
+H061,Kupilu,Kupilu,Strychnos nux-vomica,Neurological,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H062,Kustha,Kushtha,Saussurea lappa,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H063,Lodhra,Lodhra,Symplocos racemosa,Gynaecological,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H064,Madhuka,Madhuka,Madhuca longifolia,Nutritive,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H065,Manjistha,Manjishtha,Rubia cordifolia,Blood purifier,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0145,C0146,C0147,C0148,C0149"
+H066,Motha,Musta,Cyperus rotundus,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H067,Nagkesar,Nagakesara,Mesua ferrea,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H068,Nirgundi,Nirgundi,Vitex negundo,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H069,Palash,Palasha,Butea monosperma,Anthelmintic,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H070,Patola,Patola,Trichosanthes dioica,Antidiabetic,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H071,Priyangu,Priyangu,Callicarpa macrophylla,Gynaecological,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H072,Rasna,Rasna,Pluchea lanceolata,Anti-inflammatory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H073,Rohitaka,Rohitaka,Tecomella undulata,Hepatoprotective,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H074,Sariva,Sariva,Hemidesmus indicus,Blood purifier,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H075,Sarpagandha,Sarpagandha,Rauvolfia serpentina,Cardiovascular,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0150,C0151,C0152,C0153,C0154"
+H076,Shatapushpa,Shatapushpa,Anethum sowa,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H077,Shigru,Shigru,Moringa oleifera,Nutritive,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0155,C0156,C0157,C0158"
+H078,Shilajit,Shilajatu,Asphaltum punjabianum,Adaptogen,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H079,Shleshmataka,Shleshmataka,Cordia dichotoma,Nutritive,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H080,Snuhi,Snuhi,Euphorbia neriifolia,Laxative,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H081,Somalata,Soma,Sarcostemma acidum,Adaptogen,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H082,Tagara,Tagara,Valeriana wallichii,Neurological,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0159,C0160,C0161,C0162,C0163"
+H083,Talisapatra,Talisa,Abies spectabilis,Respiratory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H084,Twak,Tvak,Cinnamomum zeylanicum,Antidiabetic,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H085,Udumbara,Udumbara,Ficus racemosa,Antidiabetic,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H086,Vanshlochan,Vamshalochana,Bambusa bambos,Respiratory,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H087,Varuna,Varuna,Crataeva nurvala,Diuretic,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H088,Vijayasar,Vijayasara,Pterocarpus marsupium,Antidiabetic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0164,C0165,C0166,C0167"
+H089,Vriksha,Plaksha,Ficus lacor,Astringent,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H090,Yashad,Yashada,Zinc compound,Mineral,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H091,Yavani,Yavani,Trachyspermum ammi,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H092,Yavasa,Yavasa,Alhagi pseudalhagi,Diuretic,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H093,Zedoary,Kachura,Curcuma zedoaria,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0168,C0169,C0170,C0171,C0172"
+H094,Indian Bdellium,Guggulu,Commiphora mukul,Cardiovascular,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H095,Bhumyamalaki,Bhumyamalaki,Phyllanthus niruri,Hepatoprotective,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0173,C0174,C0175,C0176,C0177"
+H096,Chirayata,Kirata,Swertia chirayita,Antimalarial,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0178,C0179,C0180,C0181"
+H097,Datura,Dhatura,Datura stramonium,Neurological,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H098,Fennel,Shatapushpa,Foeniculum vulgare,Digestive,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0182,C0183,C0184,C0185,C0186"
+H099,Keekar,Babula,Acacia arabica,Antimicrobial,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H100,Malabar Nut,Vasa,Justicia adhatoda,Respiratory,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0187,C0188,C0189,C0190"
+H101,Pashanbheda,Pashanabheda,Bergenia ligulata,Diuretic,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0191,C0192,C0193,C0194,C0195"
+H102,Pomegranate,Dadima,Punica granatum,Antioxidant,IMPPAT/Ayurvedic Pharmacopoeia of India,"C0196,C0197,C0198,C0199,C0200"
+H103,Swarna Bhasma,Swarna,Gold compound,Mineral,IMPPAT/Ayurvedic Pharmacopoeia of India,
+H104,Vana Tulsi,Vana Tulasi,Ocimum gratissimum,Antimicrobial,IMPPAT/Ayurvedic Pharmacopoeia of India,

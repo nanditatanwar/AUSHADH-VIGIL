@@ -1,0 +1,227 @@
+[32mINFO[0m:     Will watch for changes in these directories: ['/home/ansh072004/Aushadh-Vigil-Project/backend']
+[32mINFO[0m:     Uvicorn running on [1mhttp://127.0.0.1:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     Started reloader process [[36m[1m15562[0m] using [36m[1mWatchFiles[0m
+[32mINFO[0m:     Started server process [[36m15564[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[31mERROR[0m:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 421, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 62, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/applications.py", line 1163, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/starlette/applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 2531, in app
+    await route.handle(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 1700, in handle
+    await self.original_router.handle(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 2586, in handle
+    await included_router._handle_selected(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 1720, in _handle_selected
+    await original_route.handle(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 1239, in handle
+    await app(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 150, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 136, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 711, in app
+    content = await serialize_response(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 316, in serialize_response
+    raise ResponseValidationError(
+fastapi.exceptions.ResponseValidationError: 144 validation errors:
+  {'type': 'datetime_type', 'loc': ('response', 0, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 1, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 2, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 3, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 4, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 5, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 6, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 7, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 8, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 9, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 10, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 11, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 12, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 13, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 14, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 15, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 16, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 17, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 18, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 19, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 20, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 21, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 22, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 23, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 24, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 25, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 26, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 27, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 28, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 29, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 30, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 31, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 32, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 33, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 34, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 35, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 36, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 37, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 38, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 39, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 40, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 41, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 42, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 43, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 44, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 45, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 46, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 47, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 48, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 49, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 50, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 51, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 52, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 53, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 54, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 55, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 56, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 57, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 58, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 59, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 60, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 61, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 62, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 63, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 64, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 65, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 66, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 67, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 68, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 69, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 70, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 71, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 72, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 73, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 74, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 75, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 76, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 77, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 78, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 79, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 80, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 81, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 82, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 83, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 84, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 85, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 86, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 87, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 88, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 89, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 90, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 91, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 92, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 93, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 94, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 95, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 96, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 97, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 98, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 99, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 100, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 101, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 102, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 103, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 104, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 105, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 106, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 107, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 108, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 109, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 110, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 111, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 112, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 113, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 114, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 115, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 116, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 117, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 118, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 119, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 120, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 121, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 122, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 123, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 124, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 125, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 126, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 127, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 128, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 129, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 130, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 131, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 132, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 133, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 134, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 135, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 136, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 137, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 138, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 139, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 140, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 141, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 142, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+  {'type': 'datetime_type', 'loc': ('response', 143, 'updated_at'), 'msg': 'Input should be a valid datetime', 'input': None}
+
+  File "/home/ansh072004/Aushadh-Vigil-Project/backend/app/api/v1/routers/drugs.py", line 11, in read_drugs
+    GET /drugs
+[33mWARNING[0m:  WatchFiles detected changes in 'app/schemas/drug.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m15564[0m]
+[32mINFO[0m:     Started server process [[36m15923[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'app/schemas/drug.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m15923[0m]
+[32mINFO[0m:     Started server process [[36m15930[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m15930[0m]
+[32mINFO[0m:     Stopping reloader process [[36m[1m15562[0m]
